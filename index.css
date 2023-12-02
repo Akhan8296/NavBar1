@@ -39,16 +39,13 @@
   border-bottom: 2px solid transparent;
   text-decoration: none;
   margin-left: 25px;
-  /* font-size: 100%; */
 }
 .my-icon {
-  padding-left: 2px;
+  padding-left: 5px;
 }
 .nav > a:hover {
   border-color: rgb(44, 165, 42);
 }
-/* .search {
-} */
 .search > input {
   padding: 4px;
   border-bottom-right-radius: 4px;

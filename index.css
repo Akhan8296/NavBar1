@@ -35,16 +35,17 @@
   justify-content: space-between;
 }
 .nav > a {
-  padding-left: 5px;
+  padding: 5px;
   border-bottom: 2px solid transparent;
   text-decoration: none;
-  margin-left: 25px;
-}
-.my-icon {
-  padding-left: 5px;
+  margin: 15px;
 }
 .nav > a:hover {
   border-color: rgb(44, 165, 42);
+  border-width: 100%;
+}
+.my-icon {
+  padding-left: 5px;
 }
 .search > input {
   padding: 4px;
